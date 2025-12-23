@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Scout - Viral Coach",
+  "description": "AI-powered coaching for creators. Get viral scores, script analysis, and daily missions in a gamified interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
